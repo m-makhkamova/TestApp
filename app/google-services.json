@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69635846471",
+    "project_id": "testapp-dd0f1",
+    "storage_bucket": "testapp-dd0f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69635846471:android:3653a35ef8c4a921095c62",
+        "android_client_info": {
+          "package_name": "uz.itschool.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AV-wy76RyLc7lDdX2ZJxi1Ht7gyr-fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
